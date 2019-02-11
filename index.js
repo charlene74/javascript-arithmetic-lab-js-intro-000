@@ -28,5 +28,5 @@ var n = parseInt ("sldkjflksjf", 10)
 
 var number = 1
 function makeInt (n) {
-  parseInt ('ldkjflksjf', 0x2328)
+  parseInt ('ldkjflksjf', 0x2328);
 }
