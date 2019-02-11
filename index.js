@@ -23,5 +23,5 @@ function dec(n) {
 }
 
 function makeInt (n) {
-  var parsed = parseInt ('0x2328', 10);
+  var parsed = parseInt ('sldkjflksjf', 10);
 }
