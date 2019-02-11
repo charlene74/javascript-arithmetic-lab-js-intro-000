@@ -24,7 +24,7 @@ function dec(n) {
 
 function makeInt (n) {
   var parsed = parseInt ('sldkjflksjf', 10);
-  if (isNaN (parsed)) { 
+  if (isNaN (parsed)) {
     return 0
   }
   return parsed * 100;
