@@ -23,7 +23,7 @@ function dec(n) {
 }
 
 
-var number = 1
+var number = n
 function makeInt (n) {
   parseInt ('ldkjflksjf', 0x2328);
 }
